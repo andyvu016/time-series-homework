@@ -30,6 +30,8 @@ pip install holoviews
 ```
 
 ## Usage
+> **_NOTE:_**  The visualizations of the interactive plots do not show up in the Jupyter Notebook on GitHub. Please clone or download the project to interact with the plots.
+
 You can clone or download this GitHub project and open the `forecasting_net_prophet.ipynb` using Jupyter Notebook. The Jupyter Notebook is seperated into sections that cover different aspects of the analysis. Each section contains explanations, code snippets, and interactive visualizations. By executing each cell in the Jupyter Notebook you can then interact with the visualizations.
 
 ## Contributor
